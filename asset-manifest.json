@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tradeshift/react-tradeshift-ui/main.css",
+    "main.js": "/Tradeshift/react-tradeshift-ui/main.a1318e60514d911c2dfb.bundle.js",
+    "main.css.map": "/Tradeshift/react-tradeshift-ui/main.css.map",
+    "main.js.map": "/Tradeshift/react-tradeshift-ui/main.a1318e60514d911c2dfb.bundle.js.map",
+    "runtime~main.js": "/Tradeshift/react-tradeshift-ui/runtime~main.a1318e60514d911c2dfb.bundle.js",
+    "runtime~main.js.map": "/Tradeshift/react-tradeshift-ui/runtime~main.a1318e60514d911c2dfb.bundle.js.map",
+    "vendors~main.css": "/Tradeshift/react-tradeshift-ui/vendors~main.css",
+    "vendors~main.js": "/Tradeshift/react-tradeshift-ui/vendors~main.a1318e60514d911c2dfb.bundle.js",
+    "vendors~main.css.map": "/Tradeshift/react-tradeshift-ui/vendors~main.css.map",
+    "vendors~main.js.map": "/Tradeshift/react-tradeshift-ui/vendors~main.a1318e60514d911c2dfb.bundle.js.map",
+    "iframe.html": "/Tradeshift/react-tradeshift-ui/iframe.html",
+    "precache-manifest.9c190485f92d47645421e2f70cc9d376.js": "/Tradeshift/react-tradeshift-ui/precache-manifest.9c190485f92d47645421e2f70cc9d376.js",
+    "service-worker.js": "/Tradeshift/react-tradeshift-ui/service-worker.js"
+  }
+}
